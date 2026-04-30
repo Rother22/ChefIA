@@ -88,4 +88,4 @@ El frontend de Vite está configurado para exponerse en tu red (mediante `--host
 
 ## 📄 Licencia
 
-Este proyecto se encuentra bajo la licencia **ISC** (o la definida en el archivo `LICENSE`).
+Este proyecto se encuentra bajo la licencia **MIT** (o la definida en el archivo `LICENSE`).
