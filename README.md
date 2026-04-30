@@ -1,4 +1,4 @@
-# 👨‍🍳 ChefIA
+# ChefIA
 
 <div align="center">
   <img src="chefia-app/public/logo.svg" alt="ChefIA Logo" width="200" height="200" onerror="this.style.display='none'">
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Generación de Recetas Inteligente**: Interactúa con la IA para obtener recetas personalizadas.
 * **Cálculo de Costos (Compilador)**: Ingresa tus ingredientes y ChefIA calculará y compilará los costos.
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 Este proyecto sigue una arquitectura Cliente-Servidor separada en dos directorios:
 
@@ -40,7 +40,7 @@ Este proyecto sigue una arquitectura Cliente-Servidor separada en dos directorio
 
 ---
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 Sigue estos pasos para levantar el entorno de desarrollo en tu máquina local.
 
@@ -83,9 +83,9 @@ npm run dev
 
 ---
 
-## 🌐 Uso en Red Local
+## Uso en Red Local
 El frontend de Vite está configurado para exponerse en tu red (mediante `--host`). Al ejecutar `npm run dev`, verás en tu consola una dirección IP local (ej. `http://192.168.x.x:5173`). Puedes ingresar a esa URL desde tu celular u otra computadora conectada a la misma red WiFi para usar ChefIA.
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se encuentra bajo la licencia **ISC** (o la definida en el archivo `LICENSE`).
