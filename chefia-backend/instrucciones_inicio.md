@@ -39,9 +39,6 @@ cd /Users/rother/Documents/Trabajo/ChefIa/chefia-app
 
 Una vez que ambos servidores estén corriendo (cada uno en su propia pestaña de la terminal), simplemente abre tu navegador de internet (Chrome, Safari, etc.) y entra a cualquiera de estos enlaces:
 
-- Si estás en la misma computadora: [http://localhost:5173](http://localhost:5173)
-- Si estás en tu celular u otro dispositivo en la misma red WiFi: **http://192.168.0.213:5173**
-
 ---
 
 ##  ¿Cómo reiniciar el servidor o apagar la aplicación?
