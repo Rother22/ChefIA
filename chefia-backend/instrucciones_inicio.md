@@ -26,8 +26,7 @@ Abre una **nueva** pestaña o ventana de la terminal (puedes presionar `Cmd + T`
 
 ```bash
 cd /Users/rother/Documents/Trabajo/ChefIa/chefia-app
-npm run dev
-```
+3```
 
 > [!NOTE]
 > Sabrás que funcionó cuando veas unas letras verdes indicando las direcciones locales, por ejemplo:
