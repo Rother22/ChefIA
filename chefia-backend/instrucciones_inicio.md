@@ -1,4 +1,4 @@
-# 🚀 Guía de Inicio de ChefIA
+# Guía de Inicio de ChefIA
 
 Para iniciar tu aplicación por tu cuenta sin depender de nadie, siempre debes arrancar **dos cosas**: el backend (que procesa la IA y los precios) y el frontend (la página visual).
 
@@ -44,7 +44,7 @@ Una vez que ambos servidores estén corriendo (cada uno en su propia pestaña de
 
 ---
 
-## 🔄 ¿Cómo reiniciar el servidor o apagar la aplicación?
+##  ¿Cómo reiniciar el servidor o apagar la aplicación?
 
 Si haces cambios grandes en el código (especialmente en el backend) o simplemente quieres apagar la aplicación al terminar de trabajar:
 
@@ -54,5 +54,3 @@ Si haces cambios grandes en el código (especialmente en el backend) o simplemen
    - Para el backend: `node server.js`
    - Para el frontend: `npm run dev`
 
-> [!TIP]
-> Un truco rápido en la terminal: Si presionas la **flecha hacia arriba** en tu teclado, la terminal escribirá automáticamente el último comando que utilizaste, así no tienes que teclear `npm run dev` o `node server.js` cada vez.
